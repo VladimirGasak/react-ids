@@ -1,3 +1,3 @@
 # react-ids
 
-Tec-Stack: React/Redux/Webpack/Express
+React/Redux/Webpack/Express
