@@ -5,8 +5,7 @@ const path = require('path');
 module.exports = {
     entry: {
         search: "./app/search/entry.js",
-        test: "./app/src/entry.js"
-
+        main: "./app/main/entry.js"
     },
     output: {
         path: path.resolve(__dirname, "./dist"),

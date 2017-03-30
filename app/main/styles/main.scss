@@ -1,0 +1,20 @@
+html, body {
+  height: 100%;
+  margin:0;
+  padding:0;
+}
+.wrapper{
+  height:100%;
+  #main{
+    height:100%;
+    .app-wrapper{
+      height:100%;
+      .card-wrapper{
+        width:300px;
+        height:98%;
+        margin:15px 0 15px 15px ;
+      }
+    }
+  }
+}
+
